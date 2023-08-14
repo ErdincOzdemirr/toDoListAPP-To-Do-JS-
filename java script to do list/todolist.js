@@ -1,3 +1,4 @@
+//By Erdinç Özdemir
 document.addEventListener("DOMContentLoaded", () => {
   // Get the list element and the todo list from local storage
   let list = document.querySelector("#list");
